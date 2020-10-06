@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am completing CS50 course by Harvard and am doing data analytics projects on my free time.
+I am completing CS50 course by Harvard and learning product analytics.
 
-Check me out on [LinkedIn](https://www.linkedin.com/in/annasafonova/), because I am also a startups enthusiast working across various projects!
+Check me out on [LinkedIn](https://www.linkedin.com/in/annasafonova/), as I am also a startups enthusiast working across various (cool) projects!
 
 <!--
 **safann/safann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
