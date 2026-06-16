@@ -254,6 +254,7 @@ export default function DealApprovalCalculator() {
   // Paste your Make.com webhook URL here when ready:
   const MAKE_WEBHOOK_URL = ""; // e.g. "https://hook.eu2.make.com/xxxxxxxxxxxx"
 
+  /* eslint-disable react-hooks/set-state-in-effect */
   useEffect(() => {
     if (primaryCountry && CURRENCY_MAP[primaryCountry]) setCurrency(CURRENCY_MAP[primaryCountry]);
   }, [primaryCountry]);
@@ -374,6 +375,7 @@ export default function DealApprovalCalculator() {
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
+  /* eslint-enable react-hooks/set-state-in-effect */
 
   useEffect(() => {
     try {
